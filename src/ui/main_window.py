@@ -23,8 +23,8 @@ class MainWindow:
 
     def create_components(self):
         """Initialize all UI components"""
-        self.toolbar = Toolbar(self.root)
         self.canvas = AnimationCanvas(self.root)
+        self.toolbar = Toolbar(self.root, self.canvas)
         self.timeline = Timeline(self.root)
 
     def setup_layout(self):

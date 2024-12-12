@@ -1,3 +1,29 @@
+TODO
+====
+
+1. Toolbar functionality:
+
+File operations (new, save, load project)
+Image import and handling
+Text tool implementation
+Drawing tool setup
+
+
+2. Canvas features:
+
+Drawing capabilities
+Image display
+Animation preview
+Zoom/pan controls
+
+
+3. Timeline system:
+
+Frame management
+Playback controls
+Timeline scrubbing
+Keyframe support
+
 CODE STRUCTURE
 ==============
 
