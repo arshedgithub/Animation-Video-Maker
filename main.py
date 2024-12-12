@@ -1,5 +1,5 @@
 import tkinter as tk
-from src.ui import MainWindow
+from src import MainWindow
 
 def main():
     root = tk.Tk()

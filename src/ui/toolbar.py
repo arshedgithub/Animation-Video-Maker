@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
-from ..utils.file_handlers import ProjectFileHandler, ImageHandler
+from ..utils import ImageHandler, ProjectFileHandler
 
 class Toolbar:
     def __init__(self, parent, canvas_ref):
